@@ -1,0 +1,14 @@
+{
+  "file_id": "file-string-utils",
+  "commits": [
+    {"commit_hash": "b1", "author": "alex", "message": "add trim helper", "timestamp": "2025-01-10T10:00:00Z"},
+    {"commit_hash": "b2", "author": "sam", "message": "add slugify helper", "timestamp": "2025-02-15T10:00:00Z"},
+    {"commit_hash": "b3", "author": "jordan", "message": "add unit tests", "timestamp": "2025-03-01T10:00:00Z"},
+    {"commit_hash": "b4", "author": "alex", "message": "minor docstring cleanup", "timestamp": "2025-04-01T10:00:00Z"}
+  ],
+  "contributors": [
+    {"external_id": "alex", "name": "Alex", "commit_count": 2},
+    {"external_id": "sam", "name": "Sam", "commit_count": 1},
+    {"external_id": "jordan", "name": "Jordan", "commit_count": 1}
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "file_id": "file-auth-middleware",
+  "commits": [
+    {"commit_hash": "a1", "author": "priya", "message": "add JWT check", "timestamp": "2026-08-20T10:00:00Z"},
+    {"commit_hash": "a2", "author": "priya", "message": "fix token expiry bug", "timestamp": "2026-08-25T10:00:00Z"},
+    {"commit_hash": "a3", "author": "priya", "message": "revert \"fix token expiry bug\"", "timestamp": "2026-08-26T10:00:00Z"},
+    {"commit_hash": "a4", "author": "priya", "message": "retry fix for token expiry", "timestamp": "2026-08-27T10:00:00Z"},
+    {"commit_hash": "a5", "author": "priya", "message": "tighten header validation", "timestamp": "2026-09-01T10:00:00Z"},
+    {"commit_hash": "a6", "author": "priya", "message": "quick patch for edge case", "timestamp": "2026-09-05T10:00:00Z"},
+    {"commit_hash": "a7", "author": "priya", "message": "rollback header validation change", "timestamp": "2026-09-06T10:00:00Z"}
+  ],
+  "contributors": [
+    {"external_id": "priya", "name": "Priya", "commit_count": 7}
+  ]
+}

@@ -1,0 +1,21 @@
+# Web API
+fastapi==0.118.0
+uvicorn[standard]==0.37.0
+pydantic-settings==2.11.0
+
+# Authentication and HTTP
+PyJWT==2.11.0
+cryptography==42.0.8
+httpx==0.28.1
+
+# Persistence
+SQLAlchemy==2.0.52
+psycopg2-binary==2.9.13
+
+# AI workflow and model integrations
+groq==1.7.0
+langgraph==1.2.11
+sentence-transformers==6.0.1
+
+# Development and tests
+pytest==9.1.1
